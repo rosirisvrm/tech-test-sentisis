@@ -50,7 +50,7 @@ Esta solución fue pensada para garantizar una estructura clara, reutilizable y 
 
 
 
-### How to run the project
+## > How to run the project
 
 Install the dependencies:
 
